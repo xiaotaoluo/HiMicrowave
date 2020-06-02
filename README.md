@@ -1,2 +1,0 @@
-# HiMicrowave
-Hi! Microwave!
